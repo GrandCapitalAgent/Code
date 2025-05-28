@@ -1,10 +1,8 @@
 # Grand Capital Agent Code 6151547
 
-> Exclusive trading benefits and premium conditions with Grand Capital's trusted international brokerage platform
-
-## 🚀 Quick Start
-
 Get exclusive benefits with **Agent Code: 6151547**
+
+## How it works:
 
 1. **[Open Account](https://grandcapital.net/?partner_id=6151547)** with Grand Capital
 2. **Enter Code** `6151547` during registration
